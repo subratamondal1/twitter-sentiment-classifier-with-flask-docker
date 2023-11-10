@@ -1,0 +1,5 @@
+jupyter
+ipykernel
+scikit-learn
+nltk
+pandas
